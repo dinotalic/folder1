@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Sta reci</title>
+    <title>Sta reci?</title>
 </head>
 <body>
 <?php
